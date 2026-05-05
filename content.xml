@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505233243A5DX9P</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605052332438PHAKK</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>El Homo en la historia</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Geografía e Historia 1º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778016479483</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1778009062801-aiu7hdddj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Descripción</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Descripción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009062801-aiu7hdddj</odePageId>
+      <odeBlockId>block-1778009152009-k5g2aujlv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009062801-aiu7hdddj</odePageId>
+          <odeBlockId>block-1778009152009-k5g2aujlv</odeBlockId>
+          <odeIdeviceId>idevice-1778009152007-55lgvsir2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La hominización es un periodo de cambios que se han ido sucediendo desde la Prehistoria hasta la actualidad y que han conformado la especie humana con las características que hoy conocemos. Con esta REA se pretende que el alumnado conozca todos esos cambios que experimenta el simio, así como los diferentes tipos de Homo que existieron hasta dar lugar finalmente al Homo Sapiens Sapiens.</p>
+<figure class="exe-figure position-center" style="width: 638px;"><img src="{{context_path}}/content/resources/dgee_szlg_211224.jpg" title="Hominización" width="638" height="303" alt="" />
+<figcaption class="figcaption"><span class="title"><em>Hominización</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009152007-55lgvsir2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La hominización es un periodo de cambios que se han ido sucediendo desde la Prehistoria hasta la actualidad y que han conformado la especie humana con las características que hoy conocemos. Con esta REA se pretende que el alumnado conozca todos esos cambios que experimenta el simio, así como los diferentes tipos de Homo que existieron hasta dar lugar finalmente al Homo Sapiens Sapiens.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 638px;\"><img src=\"{{context_path}}/content/resources/dgee_szlg_211224.jpg\" title=\"Hominización\" width=\"638\" height=\"303\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"title\"><em>Hominización</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009082432-wrxy15c2q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Metodología</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Metodología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Metodología</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009082432-wrxy15c2q</odePageId>
+      <odeBlockId>block-1778015631630-c2yuadl2e</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009082432-wrxy15c2q</odePageId>
+          <odeBlockId>block-1778015631630-c2yuadl2e</odeBlockId>
+          <odeIdeviceId>idevice-1778015631629-ve32hfo4l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Las metodologías serán el aprendizaje cooperativo y el aprendizaje basado en proyectos, pues organizaremos al alumno en pequeños grupos heterogéneos para maximizar su aprendizaje y el de sus compañeros. Aunque pueden ser hechos al azar, tiene sentido que sea el docente el que realice dichos grupos. De este modo fomentamos la responsabilidad individual y grupal, promoviendo a la vez habilidades sociales e inclusión en el aula. Trabajarán en equipo, investigando y resolviendo las tareas de forma colaborativo y siendo los verdaderos protagonistas de su propio aprendizaje.</p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778015631629-ve32hfo4l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Las metodologías serán el aprendizaje cooperativo y el aprendizaje basado en proyectos, pues organizaremos al alumno en pequeños grupos heterogéneos para maximizar su aprendizaje y el de sus compañeros. Aunque pueden ser hechos al azar, tiene sentido que sea el docente el que realice dichos grupos. De este modo fomentamos la responsabilidad individual y grupal, promoviendo a la vez habilidades sociales e inclusión en el aula. Trabajarán en equipo, investigando y resolviendo las tareas de forma colaborativo y siendo los verdaderos protagonistas de su propio aprendizaje.</p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009071783-bobdqcz41</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Tareas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Tareas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Tareas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009071783-bobdqcz41</odePageId>
+      <odeBlockId>block-1778014662381-o5sezmyv3</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009071783-bobdqcz41</odePageId>
+          <odeBlockId>block-1778014662381-o5sezmyv3</odeBlockId>
+          <odeIdeviceId>idevice-1778014662380-3jktb1xye</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡COMENZAMOS!</strong></p>
+<p></p>
+<p>En este apartado se detallan todas las tareas a realizar por el alumnado. Deben realizarse en ese orden, pues están diseñadas siguiendo los cuatro niveles de profundidad del conocimiento de Norman Webb, en línea a su vez con la taxonomía de Bloom: recordar, comprender, aplicar, analizar, evaluar y crear. </p>
+<p>Esta ordenación jerárquica de los procesos cognitivos (primero los menos complejos) resulta especialmente útil para secuenciar las actividades y asegurarnos de que el alumnado, paso por paso, domina todos los niveles.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778014662380-3jktb1xye","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡COMENZAMOS!</strong></p>\n<p></p>\n<p>En este apartado se detallan todas las tareas a realizar por el alumnado. Deben realizarse en ese orden, pues están diseñadas siguiendo los cuatro niveles de profundidad del conocimiento de Norman Webb, en línea a su vez con la taxonomía de Bloom: recordar, comprender, aplicar, analizar, evaluar y crear. </p>\n<p>Esta ordenación jerárquica de los procesos cognitivos (primero los menos complejos) resulta especialmente útil para secuenciar las actividades y asegurarnos de que el alumnado, paso por paso, domina todos los niveles.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009422925-z5koskeq9</odePageId>
+  <odeParentPageId>page-1778009071783-bobdqcz41</odeParentPageId>
+  <pageName>3.1. Brainstorming</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Brainstorming</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. Brainstorming</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009422925-z5koskeq9</odePageId>
+      <odeBlockId>block-1778009567893-fiizgqbq8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009422925-z5koskeq9</odePageId>
+          <odeBlockId>block-1778009567893-fiizgqbq8</odeBlockId>
+          <odeIdeviceId>idevice-1778009567892-ejsngxma5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿QUÉ SABEMOS SOBRE LA EVOLUCIÓN HUMANA?</strong></p>
+<p>Una vez agrupados en grupos de 4 personas, lo primero es conocer cuánto sabemos sobre el proceso evolutivo de la especie Homo. Para ello, con vuestro equipo, vais a realizar un Brainstorming o una lluvia de ideas. Se trata de escribir todo aquello que os suene u os resulte familiar y que esté relacionado con la evolución humana. Puede ser palabras sueltas o ideas más completas. </p>
+<figure class="exe-figure position-center" style="width: 542px;"><img src="{{context_path}}/content/resources/37614.jpg" width="542" height="325" alt="" />
+<figcaption class="figcaption"><span class="author">Freepik</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Seguro que todos podéis aportar algo a esta tarea, pues seguro que habréis oído hablar de la evolución de nuestra especie en algún momento. Mientras vais pensando, vamos a abrir una herramienta web que nos servirá para crear nuestra primera tarea: una <strong>nube de palabras</strong> o ideas sobre todos nuestros conocimientos previos antes de comenzar con el proyecto.</p>
+<p><a href="https://www.nubedepalabras.es/" title="Nube de palabras">https://www.nubedepalabras.es/</a></p>
+<p>¿Estáis preparados? ¡Vamos allá!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009567892-ejsngxma5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿QUÉ SABEMOS SOBRE LA EVOLUCIÓN HUMANA?</strong></p>\n<p>Una vez agrupados en grupos de 4 personas, lo primero es conocer cuánto sabemos sobre el proceso evolutivo de la especie Homo. Para ello, con vuestro equipo, vais a realizar un Brainstorming o una lluvia de ideas. Se trata de escribir todo aquello que os suene u os resulte familiar y que esté relacionado con la evolución humana. Puede ser palabras sueltas o ideas más completas. </p>\n<figure class=\"exe-figure position-center\" style=\"width: 542px;\"><img src=\"{{context_path}}/content/resources/37614.jpg\" width=\"542\" height=\"325\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Freepik</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Seguro que todos podéis aportar algo a esta tarea, pues seguro que habréis oído hablar de la evolución de nuestra especie en algún momento. Mientras vais pensando, vamos a abrir una herramienta web que nos servirá para crear nuestra primera tarea: una <strong>nube de palabras</strong> o ideas sobre todos nuestros conocimientos previos antes de comenzar con el proyecto.</p>\n<p><a href=\"https://www.nubedepalabras.es/\" title=\"Nube de palabras\">https://www.nubedepalabras.es/</a></p>\n<p>¿Estáis preparados? ¡Vamos allá!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009442720-rncn178p4</odePageId>
+  <odeParentPageId>page-1778009071783-bobdqcz41</odeParentPageId>
+  <pageName>3.2. Presentación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.2. Presentación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.2. Presentación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009442720-rncn178p4</odePageId>
+      <odeBlockId>block-1778010096963-qdxttknuk</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009442720-rncn178p4</odePageId>
+          <odeBlockId>block-1778010096963-qdxttknuk</odeBlockId>
+          <odeIdeviceId>idevice-1778010096962-dl7yi0fhn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡MANOS A LA OBRA!</strong></p>
+<p>Ahora que ya hemos compartido con el resto de nuestro grupo aquello que sabemos sobre la hominización, llega el momento de buscar información y explicarla al resto de la clase. Para ello, realizareis una breve presentación de no más de 5 diapositivas con las características de alguno de los tipos de Homo, entre las cuales debéis incluir:</p>
+<ul>
+<li>Descripción física.</li>
+<li>Volumen craneal.</li>
+<li>Continente/s en el que vivió.</li>
+<li>Si derivó en otra especie Homo. </li>
+</ul>
+<p>Elegiremos uno por grupo, no pudiendo coincidir en ningún caso con los del resto, pues la idea es que los conozcamos todos. El número de grupos puede variar en función del número de alumnos/as que componen la clase. Por este motivo, se proponen a continuación 7 especies de Homo en total:</p>
+<ol>
+<li>Homo Habilis</li>
+<li>Homo rudolfensis</li>
+<li>Homo erectus</li>
+<li>Homo ergaster </li>
+<li>Homo antecessor</li>
+<li>Homo heidelbergensis</li>
+<li>Homo neanderthalensis </li>
+</ol>
+<figure class="exe-figure exe-media position-center license-copyright" style="width: 560px;" id="fig_am32ejgy9">
+<figcaption class="figcaption header"><strong>Corto animado sobre la evolución humana</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/9kE1OA_4YMA?si=QGEi1vryPLDnGEow" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">NeuroticFilmsOficial</span> <span class="license"><span class="sep">(</span><span>Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Recordad elegir imágenes que acompañen lo que estáis contando sobre vuestra especie elegida. Para realizar la presentación utilizaremos la <strong>herramienta Powerpoint</strong>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778010096962-dl7yi0fhn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡MANOS A LA OBRA!</strong></p>\n<p>Ahora que ya hemos compartido con el resto de nuestro grupo aquello que sabemos sobre la hominización, llega el momento de buscar información y explicarla al resto de la clase. Para ello, realizareis una breve presentación de no más de 5 diapositivas con las características de alguno de los tipos de Homo, entre las cuales debéis incluir:</p>\n<ul>\n<li>Descripción física.</li>\n<li>Volumen craneal.</li>\n<li>Continente/s en el que vivió.</li>\n<li>Si derivó en otra especie Homo. </li>\n</ul>\n<p>Elegiremos uno por grupo, no pudiendo coincidir en ningún caso con los del resto, pues la idea es que los conozcamos todos. El número de grupos puede variar en función del número de alumnos/as que componen la clase. Por este motivo, se proponen a continuación 7 especies de Homo en total:</p>\n<ol>\n<li>Homo Habilis</li>\n<li>Homo rudolfensis</li>\n<li>Homo erectus</li>\n<li>Homo ergaster </li>\n<li>Homo antecessor</li>\n<li>Homo heidelbergensis</li>\n<li>Homo neanderthalensis </li>\n</ol>\n<figure class=\"exe-figure exe-media position-center license-copyright\" style=\"width: 560px;\" id=\"fig_am32ejgy9\">\n<figcaption class=\"figcaption header\"><strong>Corto animado sobre la evolución humana</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/9kE1OA_4YMA?si=QGEi1vryPLDnGEow\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">NeuroticFilmsOficial</span> <span class=\"license\"><span class=\"sep\">(</span><span>Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Recordad elegir imágenes que acompañen lo que estáis contando sobre vuestra especie elegida. Para realizar la presentación utilizaremos la <strong>herramienta Powerpoint</strong>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009462220-wp12zvdq2</odePageId>
+  <odeParentPageId>page-1778009071783-bobdqcz41</odeParentPageId>
+  <pageName>3.3. Línea de tiempo</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.3. Línea de tiempo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.3. Línea de tiempo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009462220-wp12zvdq2</odePageId>
+      <odeBlockId>block-1778010912392-zbj37qq7c</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009462220-wp12zvdq2</odePageId>
+          <odeBlockId>block-1778010912392-zbj37qq7c</odeBlockId>
+          <odeIdeviceId>idevice-1778010912391-p7j1kl5hq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ORDENAMOS CRONOLÓGICAMENTE LOS TIPOS DE HOMO</strong></p>
+<p>Ya hemos aprendido las características de los distintos tipos de Homo, así que ahora es el momento de ordenarlos cronológicamente en una línea de tiempo. Para hacerlo, utilizaremos la herramienta web tiki-toki a la que añadiremos  vídeos, imágenes, enlaces, etc. para hacerla más atractiva. </p>
+<p><a href="https://www.tiki-toki.com/" title="">https://www.tiki-toki.com/</a></p>
+<p>Si tenéis problemas para utilizarla, aquí os dejo un vídeo con algunas instrucciones de uso:</p>
+<figure class="exe-figure exe-media position-center license-copyright" style="width: 560px;" id="fig_gfpfi1vap">
+<figcaption class="figcaption header"><strong>EducaTIC</strong></figcaption>
+<iframe width="560" height="314" src="https://www.youtube.com/embed/KVnsA75ctZQ?si=2FpVD3AsHNitr2a-" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><span>Todos los derechos reservados</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778010912391-p7j1kl5hq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ORDENAMOS CRONOLÓGICAMENTE LOS TIPOS DE HOMO</strong></p>\n<p>Ya hemos aprendido las características de los distintos tipos de Homo, así que ahora es el momento de ordenarlos cronológicamente en una línea de tiempo. Para hacerlo, utilizaremos la herramienta web tiki-toki a la que añadiremos  vídeos, imágenes, enlaces, etc. para hacerla más atractiva. </p>\n<p><a href=\"https://www.tiki-toki.com/\" title=\"\">https://www.tiki-toki.com/</a></p>\n<p>Si tenéis problemas para utilizarla, aquí os dejo un vídeo con algunas instrucciones de uso:</p>\n<figure class=\"exe-figure exe-media position-center license-copyright\" style=\"width: 560px;\" id=\"fig_gfpfi1vap\">\n<figcaption class=\"figcaption header\"><strong>EducaTIC</strong></figcaption>\n<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/KVnsA75ctZQ?si=2FpVD3AsHNitr2a-\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><span>Todos los derechos reservados</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009517485-bog5ar0m7</odePageId>
+  <odeParentPageId>page-1778009071783-bobdqcz41</odeParentPageId>
+  <pageName>3.4. Un día siendo Homo</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.4. Un día siendo Homo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.4. Un día siendo Homo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009517485-bog5ar0m7</odePageId>
+      <odeBlockId>block-1778011373220-a8hus2gil</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009517485-bog5ar0m7</odePageId>
+          <odeBlockId>block-1778011373220-a8hus2gil</odeBlockId>
+          <odeIdeviceId>idevice-1778011373219-jyfw9ulpt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>UN DÍA SIENDO HOMO EN LA PREHISTORIA</strong></p>
+<p>Llega el momento de ponernos en la piel de uno de los Homo que ya conocemos. Esta vez escogeremos a un tipo diferente del que trabajamos en la presentación. Vamos a realizar un vídeo con <strong>voz en off con la herramienta Canva</strong>, en el que relataremos, a modo de historia, qué hemos hecho en un día cualquiera. Para ello, nuestra historia debe incluir los siguientes aspectos:</p>
+<ul>
+<li>Alimentación (qué comemos, si utilizamos el fuego, si pescamos, recolectamos...). </li>
+<li>Tipo de herramientas que usamos (guijarro, bifaz, arpón...).</li>
+<li>Refugio (dónde vivimos, en cuevas, abrigos naturales...)</li>
+<li>Estilo de vida (sedentarismo, nomadismo).</li>
+</ul>
+<p>En la descripción es importante que no mencionemos qué tipo de Homo somos, pues eso deberá averiguarlo el resto de compañeros a partir de la información que le demos en el vídeo, que también irá acompañada de imágenes. Es por ello que debemos incluir datos clave que permitan ir descartando al resto hasta dar finalmente con la opción correcta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778011373219-jyfw9ulpt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>UN DÍA SIENDO HOMO EN LA PREHISTORIA</strong></p>\n<p>Llega el momento de ponernos en la piel de uno de los Homo que ya conocemos. Esta vez escogeremos a un tipo diferente del que trabajamos en la presentación. Vamos a realizar un vídeo con <strong>voz en off con la herramienta Canva</strong>, en el que relataremos, a modo de historia, qué hemos hecho en un día cualquiera. Para ello, nuestra historia debe incluir los siguientes aspectos:</p>\n<ul>\n<li>Alimentación (qué comemos, si utilizamos el fuego, si pescamos, recolectamos...). </li>\n<li>Tipo de herramientas que usamos (guijarro, bifaz, arpón...).</li>\n<li>Refugio (dónde vivimos, en cuevas, abrigos naturales...)</li>\n<li>Estilo de vida (sedentarismo, nomadismo).</li>\n</ul>\n<p>En la descripción es importante que no mencionemos qué tipo de Homo somos, pues eso deberá averiguarlo el resto de compañeros a partir de la información que le demos en el vídeo, que también irá acompañada de imágenes. Es por ello que debemos incluir datos clave que permitan ir descartando al resto hasta dar finalmente con la opción correcta.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009546297-l40vqhbfu</odePageId>
+  <odeParentPageId>page-1778009071783-bobdqcz41</odeParentPageId>
+  <pageName>3.5. ¿Quién es quién?</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.5. ¿Quién es quién?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.5. ¿Quién es quién?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009546297-l40vqhbfu</odePageId>
+      <odeBlockId>block-1778012024217-luge0xej4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009546297-l40vqhbfu</odePageId>
+          <odeBlockId>block-1778012024217-luge0xej4</odeBlockId>
+          <odeIdeviceId>idevice-1778012024216-1dn2e6o35</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿QUIÉN ES QUIÉN?</strong></p>
+<p>Ahora toca agudizar nuestros sentidos y, mientras los vídeos se van proyectando, debemos averiguar, por grupos, qué tipo de Homo están describiendo los demás y escribirlo en un documento. Al terminar, resolveremos a qué tipo de Homo correspondía cada vídeo, y compartiremos los resultados mediante una puesta en común, realizando un ranking para saber quién ha conseguido un mayor número de aciertos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778012024216-1dn2e6o35","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿QUIÉN ES QUIÉN?</strong></p>\n<p>Ahora toca agudizar nuestros sentidos y, mientras los vídeos se van proyectando, debemos averiguar, por grupos, qué tipo de Homo están describiendo los demás y escribirlo en un documento. Al terminar, resolveremos a qué tipo de Homo correspondía cada vídeo, y compartiremos los resultados mediante una puesta en común, realizando un ranking para saber quién ha conseguido un mayor número de aciertos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778009098807-a9xkdm69t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Evaluación</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778009098807-a9xkdm69t</odePageId>
+      <odeBlockId>block-1778013313083-sncniuyzi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009098807-a9xkdm69t</odePageId>
+          <odeBlockId>block-1778013313083-sncniuyzi</odeBlockId>
+          <odeIdeviceId>idevice-1778013313082-g8s0o546v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡HORA DE EVALUAR!</strong></p>
+<p>Una vez realizada nuestra planificación temporal de sesiones y organizado el aula espacialmente y pensando en las herramientas que necesitaremos, ahora toca pensar cómo evaluaremos nuestro proyecto enlazándolo con los <strong>criterios de evaluación</strong> que aparecen en la <strong>LOMLOE </strong>para la materia de Geografía e Historia en 1º ESO. Entre ellos, con nuestro proyecto evaluaremos los siguientes:</p>
+<p>1.1. Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos mediante el desarrollo de estrategias de búsqueda, selección y tratamiento de información relativas a procesos y acontecimientos relevantes del presente y del pasado.</p>
+<p>2.3. Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas.</p>
+<p>3.1. Adquirir y construir conocimiento relevante del mundo actual y de la historia, a través de procesos inductivos, de la investigación y del trabajo por proyectos, retos o problemas, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados.</p>
+<p>3.3. Representar adecuadamente información geográfica e histórica a través de diversas formas de representación gráfica, cartográfica y visual.</p>
+<p>3.4. Utilizar una secuencia cronológica con objeto de examinar la relación entre hechos y procesos en diferentes períodos y lugares históricos (simultaneidad y duración), utilizando términos y conceptos apropiados.</p>
+<p>3.5. Analizar procesos de cambio histórico de relevancia a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes periodos y lugares.</p>
+<p>5.1. Identificar, interpretar y analizar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la historia, desde el origen de la sociedad a las distintas civilizaciones que se han ido sucediendo, señalando los principales modelos de organización social, política, económica y religiosa que se han gestado.</p>
+<p>6.4. Argumentar e intervenir acerca de la igualdad real de hombres y mujeres actuando en contra de cualquier actitud y comportamiento discriminatorio por razón de género.</p>
+<p>Para la <strong>tarea 2.2., <em>Presentación</em>,</strong> podemos aprovechar para realizar una coevaluación en la que evaluaremos diferentes habilidades del alumno para que desarrolle la capacidad de expresarse en público. Realizarán una presentación que deberán explicar al resto de compañeros y en la que se basarán en los cambios físicos de cada tipo de Homo, así como su emplazamiento geográfico. Por este motivo, evaluaremos que dominen el contenido que están explicando, que utilicen el vocabulario específico de la materia, el lenguaje no verbal, así como si recurren o no al apoyo de un guion. Para corregir esta actividad realizaremos una coevaluación, es decir, ellos mismos serán los que evaluarán al resto de compañeros mientras están realizando la explicación. </p>
+<p>Para obtener los datos, una vez cumplimentados todos, haremos un recuento y cada alumno obtendrá un valor en cada uno de los ítems que será el resultado de la media de todas las respuestas obtenidas. Una posible variante es, en lugar de realizar una coevaluación individual, hacerlo de forma grupal, es decir, evaluar todos los ítems teniendo en cuenta al grupo al completo y no a cada uno de los integrantes por separado.</p>
+<p>Esta tarea colabora a que poco a poco aprendan a expresarse oralmente en presencia de otros, hablando despacio y con claridad, pues esto es crucial para su desarrollo académico y profesional, ayudándoles al mismo tiempo a sintetizar contenidos, al desarrollo del pensamiento crítico y a adquirir seguridad en sí mismos. </p>
+<p>Para la <strong>tarea 2.4., <em>Un día siendo Homo en la prehistoria</em></strong>, podemos utilizar una rúbrica de corrección como la que muestro a continuación.</p>
+<p>Además, el alumnado realizará un <strong>portfolio</strong> en el que reflexionará sobre el proyecto y las tareas realizadas en él: qué han aprendido, qué les ha gustado más y qué menos, qué dificultades han encontrado a la hora de resolverlas, etc. Finalmente, también recogerán posibles sugerencias de cara a mejorar el proyecto en el futuro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778013313082-g8s0o546v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡HORA DE EVALUAR!</strong></p>\n<p>Una vez realizada nuestra planificación temporal de sesiones y organizado el aula espacialmente y pensando en las herramientas que necesitaremos, ahora toca pensar cómo evaluaremos nuestro proyecto enlazándolo con los <strong>criterios de evaluación</strong> que aparecen en la <strong>LOMLOE </strong>para la materia de Geografía e Historia en 1º ESO. Entre ellos, con nuestro proyecto evaluaremos los siguientes:</p>\n<p>1.1. Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos mediante el desarrollo de estrategias de búsqueda, selección y tratamiento de información relativas a procesos y acontecimientos relevantes del presente y del pasado.</p>\n<p>2.3. Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas.</p>\n<p>3.1. Adquirir y construir conocimiento relevante del mundo actual y de la historia, a través de procesos inductivos, de la investigación y del trabajo por proyectos, retos o problemas, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados.</p>\n<p>3.3. Representar adecuadamente información geográfica e histórica a través de diversas formas de representación gráfica, cartográfica y visual.</p>\n<p>3.4. Utilizar una secuencia cronológica con objeto de examinar la relación entre hechos y procesos en diferentes períodos y lugares históricos (simultaneidad y duración), utilizando términos y conceptos apropiados.</p>\n<p>3.5. Analizar procesos de cambio histórico de relevancia a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes periodos y lugares.</p>\n<p>5.1. Identificar, interpretar y analizar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la historia, desde el origen de la sociedad a las distintas civilizaciones que se han ido sucediendo, señalando los principales modelos de organización social, política, económica y religiosa que se han gestado.</p>\n<p>6.4. Argumentar e intervenir acerca de la igualdad real de hombres y mujeres actuando en contra de cualquier actitud y comportamiento discriminatorio por razón de género.</p>\n<p>Para la <strong>tarea 2.2., <em>Presentación</em>,</strong> podemos aprovechar para realizar una coevaluación en la que evaluaremos diferentes habilidades del alumno para que desarrolle la capacidad de expresarse en público. Realizarán una presentación que deberán explicar al resto de compañeros y en la que se basarán en los cambios físicos de cada tipo de Homo, así como su emplazamiento geográfico. Por este motivo, evaluaremos que dominen el contenido que están explicando, que utilicen el vocabulario específico de la materia, el lenguaje no verbal, así como si recurren o no al apoyo de un guion. Para corregir esta actividad realizaremos una coevaluación, es decir, ellos mismos serán los que evaluarán al resto de compañeros mientras están realizando la explicación. </p>\n<p>Para obtener los datos, una vez cumplimentados todos, haremos un recuento y cada alumno obtendrá un valor en cada uno de los ítems que será el resultado de la media de todas las respuestas obtenidas. Una posible variante es, en lugar de realizar una coevaluación individual, hacerlo de forma grupal, es decir, evaluar todos los ítems teniendo en cuenta al grupo al completo y no a cada uno de los integrantes por separado.</p>\n<p>Esta tarea colabora a que poco a poco aprendan a expresarse oralmente en presencia de otros, hablando despacio y con claridad, pues esto es crucial para su desarrollo académico y profesional, ayudándoles al mismo tiempo a sintetizar contenidos, al desarrollo del pensamiento crítico y a adquirir seguridad en sí mismos. </p>\n<p>Para la <strong>tarea 2.4., <em>Un día siendo Homo en la prehistoria</em></strong>, podemos utilizar una rúbrica de corrección como la que muestro a continuación.</p>\n<p>Además, el alumnado realizará un <strong>portfolio</strong> en el que reflexionará sobre el proyecto y las tareas realizadas en él: qué han aprendido, qué les ha gustado más y qué menos, qué dificultades han encontrado a la hora de resolverlas, etc. Finalmente, también recogerán posibles sugerencias de cara a mejorar el proyecto en el futuro.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778009098807-a9xkdm69t</odePageId>
+      <odeBlockId>block-1778012681934-hr51tmcr5</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778009098807-a9xkdm69t</odePageId>
+          <odeBlockId>block-1778012681934-hr51tmcr5</odeBlockId>
+          <odeIdeviceId>idevice-1778012681933-9s8nxf79m</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778012681933-9s8nxf79m%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Im%E1genes%22%2C%22Creatividad%22%2C%22Contenidos%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Notable%22%2C%22Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Algunas%20de%20las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Pocas%20im%E1genes%20de%20las%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22%A1El%20video%20podr%EDa%20proceder%20directamente%20de%20la%20Prehistoria%21%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20v%EDdeo%20es%20correcto%20en%20general%2C%20pero%20podr%EDan%20mejorarse%20algunos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22En%20el%20v%EDdeo%20hay%20m%E1s%20aspectos%20que%20mejorar%20que%20aspectos%20correctos.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20v%EDdeo%20podr%EDa%20mejorar%20bastante%20en%20cuanto%20a%20creatividad.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20video%20habla%20sobre%20herramientas%2C%20alimentaci%F3n%2C%20refugio%20y%20estilo%20de%20vida.%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20tres%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20dos%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20uno%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Im%E1genes%22%2C%22Creatividad%22%2C%22Contenidos%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Notable%22%2C%22Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22La%20mayor%EDa%20de%20las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Algunas%20de%20las%20im%E1genes%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Pocas%20im%E1genes%20de%20las%20empleadas%20son%20correctas%20para%20explicar%20los%20contenidos%20del%20v%EDdeo.%20%20%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22%A1El%20video%20podr%EDa%20proceder%20directamente%20de%20la%20Prehistoria%21%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20v%EDdeo%20es%20correcto%20en%20general%2C%20pero%20podr%EDan%20mejorarse%20algunos%20aspectos.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22En%20el%20v%EDdeo%20hay%20m%E1s%20aspectos%20que%20mejorar%20que%20aspectos%20correctos.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20v%EDdeo%20podr%EDa%20mejorar%20bastante%20en%20cuanto%20a%20creatividad.%22%7D%5D%2C%5B%7B%22weight%22%3A%224%22%2C%22text%22%3A%22El%20video%20habla%20sobre%20herramientas%2C%20alimentaci%F3n%2C%20refugio%20y%20estilo%20de%20vida.%20%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20tres%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20dos%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22El%20v%EDdeo%20habla%20sobre%20uno%20de%20los%20cuatro%20contenidos%20%28herramientas%2C%20alimentaci%F3n%2C%20refugio%2C%20estilo%20de%20vida%29.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Mar%EDa%20Mart%EDnez%20Yuste%22%2C%22license%22%3A%22CC-BY-NC-ND%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">María Martínez Yuste</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-NC-ND">CC BY-NC-ND</a>)</span></p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity"></li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
